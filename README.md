@@ -35,4 +35,22 @@ Functionality indicates interactive features and user actions, such as buttons, 
 By including these elements in a wireframe, designers can create a clear blueprint that communicates both visual structure and interactive behavior before moving to detailed design or development.
 
 ---
+## Types of Wireframes
+
+Wireframes can be classified based on their level of detail and fidelity. The two main types are **low-fidelity** and **high-fidelity** wireframes.
+
+### 1. Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, basic representations of a layout. They often use sketches or simple shapes to indicate content placement and structure.  
+- **Purpose:** To quickly explore ideas, focus on layout and functionality, and gather feedback early in the design process.  
+- **Characteristics:** Minimal detail, grayscale, basic shapes, and placeholders for images or text.  
+- **Example Use:** Brainstorming session or early-stage project discussions.
+
+### 2. High-Fidelity Wireframes
+High-fidelity wireframes are detailed and closer to the final design. They include actual content, precise spacing, colors, typography, and interactive elements.  
+- **Purpose:** To validate design decisions, test usability, and provide a clear reference for developers.  
+- **Characteristics:** Detailed visuals, accurate content, realistic interaction elements, and often created with digital design tools.  
+- **Example Use:** Finalizing design before prototyping or development.
+
+## Identifying the Type of Wireframe Here
+The wireframes created in this repository are primarily **low-fidelity wireframes**. They focus on the overall layout, content placement, navigation, and functionality without including detailed visual design or styling. This approach allows for rapid iteration and feedback early in the design process.
 
